@@ -7,3 +7,4 @@ def display_rainbow(array = Array.new)
   puts "B: #{array[4]}"
   puts "I: #{array[5]}"
   puts "V: #{array[6]}"
+end
